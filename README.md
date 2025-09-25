@@ -2,7 +2,7 @@ COVID-19 Global Data Analysis & Dashboard
 =========================================
 
 
-### [View the Interactive Tableau Dashboard](https://www.google.com/search?q=https://public.tableau.com/views/CovidDashboardTutorial_17587934353110/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+### [View the Interactive Tableau Dashboard]([https://www.google.com/search?q=https://public.tableau.com/views/CovidDashboardTutorial_17587934353110/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/CovidDashboardTutorial_17587934353110/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
 Project Overview
